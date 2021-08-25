@@ -1,7 +1,7 @@
 # Discord Register Bot
 
 
- - [Discord Register Bot](https://github.com/UtkuJS/100-Komutlu-V12-Bot)
+ - [Discord Bot Club Güncel Sitesi](https://github.com/UtkuJS/botclub-website)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
@@ -27,7 +27,6 @@
 * [Açmak İçin Tıkla](https://discord.com/developers/applications)
 <img src="https://cdn.discordapp.com/attachments/818953120452575322/851116463166849054/3P4KKB.png"/>
 
-***Tadaaa 🎉. Artık register botun hazır. Dilediğin gibi kullanabilirsin.***
 
 # İletişim
 * [Discord Profilim](https://discord.com/users/236173144300191754)
