@@ -1,4 +1,4 @@
-# Discord Register Bot
+# Discord Botclub Güncel Site (NOT: Sitenin ilk hali Theark'a ait)
 
 
  - [Discord Bot Club Güncel Sitesi](https://github.com/UtkuJS/botclub-website)
