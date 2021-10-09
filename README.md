@@ -20,7 +20,7 @@
 * Daha sonra `src`dosyasındaki `Settings` dosyasının içindeki `Config.json`, `Settings.json` dosyalardaki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
+* Kurulum bittikten sonra ```node app.js``` yaz ve botu başlat.
 
 
 ## Botun İntentlerini Açmayı Unutma!
